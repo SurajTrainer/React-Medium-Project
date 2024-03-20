@@ -1,0 +1,54 @@
+
+.searchdiv{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    box-shadow: 0 0 12px 1px rgb(221, 218, 214);
+    border-radius: 12px;
+    margin: auto;
+    padding: 12px 0px;
+}
+
+.searchinput{
+    padding: 12px 3px;
+    margin: 12px;
+    border: 0;
+    outline: 0;
+    color: blue;
+    font-size: 18px;
+    border-radius: 12px;
+}
+
+.searchicon{
+    font-size: 26px;
+    cursor: pointer;
+    display: flex;
+    margin-top: 22px;
+    opacity: .5;
+}
+.searchicon:hover{
+    opacity: 1;
+}
+
+.div2{    
+    margin: auto 21px;
+    display: flex;
+}
+
+form{
+    border-radius: 12px;
+}
+
+.searchbtn{
+    margin: auto 12px;
+    height: 40px;
+}
+
+.select{
+    width: 20%;
+    margin: 15px 18px;
+    border: 0;
+    outline: none;
+    padding: 5px;
+    cursor: pointer;
+}

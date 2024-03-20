@@ -1,0 +1,25 @@
+
+.jobContainer{
+    width: 85%;
+    margin: 52px auto;
+    padding: 9px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bodydiv{
+    width: 23%;
+    padding: 12px 12px;
+    margin: 12px;
+    border-radius: 12px;
+    font-size: 18px;
+}
+
+.bodydiv:hover{
+    background-color: rgb(56, 68, 199);
+}
+
+.divpadding{
+    padding: 14px 36px;
+    gap: 5px;
+}

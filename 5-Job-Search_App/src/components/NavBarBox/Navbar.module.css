@@ -1,0 +1,36 @@
+
+.navbarContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 24px 102px;
+}
+
+.header{
+    color: #3333ff;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.strong{
+    margin: 0 12px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.liTab{
+    text-align: center;
+    list-style: none;
+    display: flex;
+    color: rgb(48, 46, 46);
+    margin-right: 42px;
+}
+
+li{
+    list-style: none;
+    cursor: pointer;
+    margin-right: 32px;
+    color: gray;
+    position: relative;
+}
+
