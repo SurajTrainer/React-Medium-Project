@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&display=swap');
+
+*{
+  background-color:   #dfe8f0;
+  font-family: "Carrois Gothic SC", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.mainContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    margin: auto;
+}
+
+.mainCard{
+    width: 18rem;
+    margin: 10px 13px;
+    padding: 4px;
+    font-size: 17px;
+    border-radius: 14px;
+}
